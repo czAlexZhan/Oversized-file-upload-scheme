@@ -1,3 +1,3 @@
 # LargeFileUpload
-####超大文件上传解决方案
-[参考网站](https://segmentfault.com/a/1190000020703693?utm_source=tag-newest)
+    超大文件上传解决方案，服务端koa,前端vue+antd
+    web目录运行 `yarn start`, server目录运行 `yarn start`
