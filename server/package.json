@@ -1,0 +1,19 @@
+{
+  "name": "uploadServer",
+  "version": "1.0.0",
+  "description": "超大文件上传服务端",
+  "main": "app",
+  "author": "zhanxuwen",
+  "license": "MIT",
+  "dependencies": {
+    "concat-files": "^0.1.1",
+    "fs-extra": "^8.1.0",
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6",
+    "koa2-multiparty": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
